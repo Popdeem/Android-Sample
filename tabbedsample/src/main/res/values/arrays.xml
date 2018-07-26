@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pd_login_images">
+        <item>@drawable/kft1</item>
+        <item>@drawable/kft2</item>
+        <item>@drawable/kft3</item>
+    </string-array>
+
+    <string-array name="pd_coupon_images">
+        <item>@drawable/kungfutea_gratitude_1</item>
+        <item>@drawable/kungfutea_gratitude_2</item>
+        <item>@drawable/kungfutea_gratitude_3</item>
+    </string-array>
+
+    <string-array name="pd_connect_images">
+        <item>@drawable/kungfutea_gratitude_1</item>
+        <item>@drawable/kungfutea_gratitude_2</item>
+        <item>@drawable/kungfutea_gratitude_3</item>
+    </string-array>
+
+    <string-array name="pd_credit_images">
+        <item>@drawable/kungfutea_gratitude_1</item>
+        <item>@drawable/kungfutea_gratitude_2</item>
+        <item>@drawable/kungfutea_gratitude_3</item>
+    </string-array>
+
+    <string-array name="pd_sweepstake_images">
+        <item>@drawable/kungfutea_gratitude_1</item>
+        <item>@drawable/kungfutea_gratitude_2</item>
+        <item>@drawable/kungfutea_gratitude_3</item>
+    </string-array>
+</resources>

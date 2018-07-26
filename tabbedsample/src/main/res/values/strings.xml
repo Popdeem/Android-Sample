@@ -1,0 +1,77 @@
+<!--
+  ~ The MIT License (MIT)
+  ~
+  ~ Copyright (c) 2015 Popdeem
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  -->
+
+<resources>
+    <string name="app_name">Popdeem Tabbed Sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="other_fragment_text">Other Fragment</string>
+
+    <string name="google_app_id">839359806985</string>
+
+    <string name="facebook_app_id">1706317436274686</string>
+    <string name="fb_login_protocol_scheme">fb1706317436274686</string>
+    <string name="facebook_app_name">Popdeem</string>
+
+    <!--<string name="facebook_app_id">1674966902600938</string>-->
+    <!--<string name="fb_login_protocol_scheme">fb1674966902600938</string>-->
+
+    <string name="content_authority">com.popdeem.tabbedsample</string>
+
+
+
+    <string name="pd_home_banner_text">Share your #Hashtag experience on social networks to earn more rewards.</string>
+
+
+    <string name="grat1_title">New: Social Rewards!!!!!</string>
+
+    <string-array name="pd_gratuity_strings_login_title">
+        <item>@string/grat1_title</item>
+    </string-array>
+
+    <string name="grat1_body">Connect with brand on social media to earn additional rewards!</string>
+
+    <string-array name="pd_gratuity_strings_login_body">
+        <item>@string/grat1_body</item>
+    </string-array>
+
+
+    <string-array name="pd_gratuity_strings_share_coupon_title">
+    </string-array>
+
+    <string-array name="pd_gratuity_strings_share_coupon_body">
+    </string-array>
+
+    <string-array name="pd_gratuity_strings_share_credit_title">
+    </string-array>
+
+    <string-array name="pd_gratuity_strings_share_credit_body">
+    </string-array>
+
+    <string-array name="pd_gratuity_strings_share_sweepstake_title">
+    </string-array>
+
+    <string-array name="pd_gratuity_strings_share_sweepstake_body">
+    </string-array>
+
+</resources>
