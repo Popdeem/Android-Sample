@@ -33,8 +33,6 @@
     <string name="fb_login_protocol_scheme">fb1706317436274686</string>
     <string name="facebook_app_name">Popdeem</string>
 
-    <!--<string name="facebook_app_id">1674966902600938</string>-->
-    <!--<string name="fb_login_protocol_scheme">fb1674966902600938</string>-->
 
     <string name="content_authority">com.popdeem.tabbedsample</string>
 

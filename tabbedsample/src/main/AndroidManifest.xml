@@ -71,6 +71,7 @@
         <meta-data
             android:name="InstagramClientId"
             android:value="721403853f784eea86023a9e96ccde44" />
+            <!--android:value="721403853f784eea86023a9e96ccde44" />-->
 
         <meta-data
             android:name="InstagramClientSecret"
