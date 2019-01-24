@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "314914576751",
+    "firebase_url": "https://tabbed-sample-57f43.firebaseio.com",
+    "project_id": "tabbed-sample-57f43",
+    "storage_bucket": "tabbed-sample-57f43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314914576751:android:f7f8375b63b1b9eb",
+        "android_client_info": {
+          "package_name": "com.popdeem.tabbedsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314914576751-jd0id8vfgk9lko9se05pqjkb7nv0itda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe7UJPGhFyolXh66TsT6Gpv6yCzhNIscE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

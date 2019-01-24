@@ -27,8 +27,6 @@
     <string name="action_settings">Settings</string>
     <string name="other_fragment_text">Other Fragment</string>
 
-    <string name="google_app_id">839359806985</string>
-
     <string name="facebook_app_id">1706317436274686</string>
     <string name="fb_login_protocol_scheme">fb1706317436274686</string>
     <string name="facebook_app_name">Popdeem</string>
@@ -47,6 +45,7 @@
         <item>@string/grat1_title</item>
     </string-array>
 
+    <string name="direct_to_social_home">Direct to social home</string>
     <string name="grat1_body">Connect with brand on social media to earn additional rewards!</string>
 
     <string-array name="pd_gratuity_strings_login_body">

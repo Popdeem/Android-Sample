@@ -39,13 +39,11 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.popdeem.sdk.core.PopdeemSDK;
-//import com.popdeem.sdk.uikit.activity.PDActivityCompat;
+import com.popdeem.sdk.uikit.activity.PDActivity;
+import com.popdeem.sdk.uikit.activity.PDActivityCompat;
 import com.popdeem.sdk.uikit.fragment.PDUIHomeFlowFragment;
 
-public class MainActivity extends AppCompatActivity {
-
-
-
+public class MainActivity extends PDActivityCompat {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

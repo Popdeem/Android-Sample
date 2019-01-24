@@ -54,6 +54,7 @@ public class MyApplication extends Application {
         getHash();
 
         // Initialise Popdeem SDK
+        // Use PD_STAGING_API_ENDPOINT if needed.
         PopdeemSDK.initializeSDK(this, PD_PROD_API_ENDPOINT);
         PopdeemSDK.enableSocialMultiLogin(MainActivity.class, 500);
     }
@@ -63,7 +64,13 @@ public class MyApplication extends Application {
         super.attachBaseContext(base);
         MultiDex.install(this);
 
-    }public void getHash(){
+    }
+    /*
+     * If you need to get your apps key hash to add to facebook call the elow function.
+     * Hash will change based on the signing used so you will need to run it for debug and release.
+     */
+    public void getHash(){
+
         if(BuildConfig.DEBUG){
             try {
 

@@ -53,25 +53,11 @@
 
         <meta-data
             android:name="com.popdeem.sdk.ApiKey"
-            android:value="4d71afe2-da51-4217-bf7e-afcc0ce4226c" />
+            android:value="e934194f-cf4d-4b79-8526-9ccbbc06d0c9" />
 
-        <meta-data
-            android:name="GCMSenderID"
-            android:value="@string/google_app_id" />
-
-        <meta-data
-            android:name="TwitterConsumerKey"
-            android:value="144pFFdkYjC9p4J61YHubqKux" />
-
-        <meta-data
-            android:name="TwitterConsumerSecret"
-            android:value="ynGwNExKrhd2q0oDriut1MrLrkXSA78j78FnSrBkFON0QV0TUh" />
-
-        <!-- Instagram -->
         <meta-data
             android:name="InstagramClientId"
             android:value="721403853f784eea86023a9e96ccde44" />
-            <!--android:value="721403853f784eea86023a9e96ccde44" />-->
 
         <meta-data
             android:name="InstagramClientSecret"
@@ -84,6 +70,15 @@
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
+
+        <meta-data
+            android:name="TwitterConsumerKey"
+            android:value="B5RUpU6MEq6qv6y2j7GzhF5MQ" />
+
+        <meta-data
+            android:name="TwitterConsumerSecret"
+            android:value="WoMGlI5W3JTOpG5h9y3Z7PUn28aqjXqZyhcg7aSIqnlXuHfoBo" />
+
 
         <meta-data
             android:name="com.google.android.gms.version"
